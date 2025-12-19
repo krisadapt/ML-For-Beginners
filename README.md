@@ -24,7 +24,7 @@ We have a Discord learn with AI series ongoing, learn more and join us at [Learn
 
 ![Learn with AI series](/images/3.png)
 
-# Machine Learning for Beginners - A Curriculum
+# Machine Learning for Beginners - A Curriculum 
 
 > 🌍 Travel around the world as we explore Machine Learning by means of world cultures 🌍
 
